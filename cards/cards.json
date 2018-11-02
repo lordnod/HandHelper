@@ -1,0 +1,640 @@
+{
+  "cards": [
+      {
+        "name": "Two of Clubs",
+        "short": "2c",
+        "cnum": "2",
+        "suit": "c",
+        "position": {
+        "x": "280",
+        "y": "1140",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Three  of Clubs",
+        "short": "3c",
+        "cnum": "3",
+        "suit": "c",
+        "position": {
+        "x": "700",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+       }
+      },
+      {
+        "name": "Four of Clubs",
+        "short": "4c",
+        "cnum": "4",
+        "suit": "c",
+        "position": {
+        "x": "700",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Five of Clubs",
+        "short": "5c",
+        "cnum": "5",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "1710",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Six  of Clubs",
+        "short": "6c",
+        "cnum": "6",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "1520",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Seven of Clubs",
+        "short": "7c",
+        "cnum": "7",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "1330",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Eight of Clubs",
+        "short": "8c",
+        "cnum": "8",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "1140",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Nine of Clubs",
+        "short": "9c",
+        "cnum": "9",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "950",
+        "w": "140",
+        "h": "190"
+        }
+      },
+        {
+        "name": "Ten of Clubs",
+        "short": "10c",
+        "cnum": "10",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "760",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Jack of Clubs",
+        "short": "Jc",
+        "cnum": "11",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Queen of Clubs",
+        "short": "Qc",
+        "cnum": "12",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "King of Clubs",
+        "short": "Kc",
+        "cnum": "13",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+        }
+      },
+        {
+        "name": "Ace of Clubs",
+        "short": "Ac",
+        "cnum": "14",
+        "suit": "c",
+        "position": {
+        "x": "560",
+        "y": "570",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Two of Diamonds",
+        "short": "2d",
+        "cnum": "2",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "1710",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Three of Diamonds",
+        "short": "3d",
+        "cnum": "3",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "1520",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Four of Diamonds",
+        "short": "4d",
+        "cnum": "4",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "1330",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Five of Diamonds",
+        "short": "5d",
+        "cnum": "5",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "1140",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Six of Diamonds",
+        "short": "6d",
+        "cnum": "6",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "950",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Seven of Diamonds",
+        "short": "7d",
+        "cnum": "7",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "760",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Eight of Diamonds",
+        "short": "8d",
+        "cnum": "8",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "570",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "-name": "Nine of Diamonds",
+        "short": "9d",
+        "cnum": "9",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+        {
+        "name": "Ten of Diamonds",
+        "short": "10d",
+        "cnum": "10",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+        }
+      },
+       {
+        "name": "Jack of Diamonds",
+        "short": "Jd",
+        "cnum": "11",
+        "suit": "d",
+        "position": {
+        "x": "280",
+        "y": "1710",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Queen of Diamonds",
+        "short": "Qd",
+        "cnum": "12",
+        "suit": "d",
+        "position": {
+        "x": "280",
+        "y": "1330",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "King of Diamonds",
+        "-short": "Kd",
+        "cnum": "13",
+        "suit": "d",
+        "position": {
+        "x": "280",
+        "y": "1520",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Ace of Diamonds",
+        "short": "Ad",
+        "cnum": "14",
+        "suit": "d",
+        "position": {
+        "x": "420",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Two of Hearts",
+        "short": "2h",
+        "cnum": "2",
+        "suit": "h",
+        "position": {
+        "x": "700",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Three of Hearts",
+        "short": "3h",
+        "cnum": "3",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "950",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Four of Hearts",
+        "short": "4h",
+        "cnum": "4",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "760",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Five of Hearts",
+        "short": "5h",
+        "cnum": "5",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "570",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Six of Hearts",
+        "short": "6h",
+        "cnum": "6",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Seven of Hearts",
+        "short": "7h",
+        "cnum": "7",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Eight of Hearts",
+        "short": "8h",
+        "cnum": "8",
+        "suit": "h",
+        "position": {
+        "x": "280",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Nine of Hearts",
+        "short": "9h",
+        "cnum": "9",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "1710",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Ten of Hearts",
+        "short": "10h",
+        "cnum": "10",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "1520",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Jack of Hearts",
+        "short": "Jh",
+        "cnum": "11",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "1140",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Queen of Hearts",
+        "short": "Qh",
+        "cnum": "12",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "760",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "King of Hearts",
+        "short": "Kh",
+        "cnum": "13",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "950",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Ace of Hearts",
+        "short": "Ah",
+        "cnum": "14",
+        "suit": "h",
+        "position": {
+        "x": "140",
+        "y": "1330",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Joker",
+        "short": "Joker",
+        "cnum": "0",
+        "suit": "joker",
+        "position": {
+        "x": "140",
+        "y": "570",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Two of Spades",
+        "short": "2s",
+        "cnum": "2",
+        "suit": "s",
+        "position": {
+        "x": "140",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Three of Spades",
+        "short": "3s",
+        "cnum": "3",
+        "suit": "s",
+        "position": {
+        "x": "140",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Four of Spades",
+        "short": "4s",
+        "cnum": "4",
+        "suit": "s",
+        "position": {
+        "x": "140",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Five of Spades",
+        "short": "5s",
+        "cnum": "5",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "1710",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Six of Spades",
+        "short": "6s",
+        "cnum": "6",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "1520",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Seven of Spades",
+        "short": "7s",
+        "cnum": "7",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "1330",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Eight of Spades",
+        "short": "8s",
+        "cnum": "8",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "1140",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Nine of Spades",
+        "short": "9s",
+        "cnum": "9",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "950",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Ten of Spades",
+        "short": "10s",
+        "cnum": "10",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "760",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Jack of Spades",
+        "short": "Js",
+        "cnum": "11",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "380",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Queen of Spades",
+        "short": "Qs",
+        "cnum": "12",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "0",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "King of Spades",
+        "short": "Ks",
+        "cnum": "13",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "190",
+        "w": "140",
+        "h": "190"
+        }
+      },
+      {
+        "name": "Ace of Spades",
+        "short": "As",
+        "cnum": "14",
+        "suit": "s",
+        "position": {
+        "x": "0",
+        "y": "570",
+        "w": "140",
+        "h": "190"
+        }
+      }
+    ]
+}
